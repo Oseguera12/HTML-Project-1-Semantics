@@ -9,7 +9,7 @@ Project 1/3 demonstrating my understanding of the HTML markup language.<br>
 ### About Semantic HTML
 Semantic HTML refers to HTML elements which give documents meaningful and clear structure.
 Through semantic elements, the webpage becomes more accessible to users and search engines, ultimately improving both usability and SEO.
-Below are links to useful website with diagrams and lists of semantic HTML elements.
+Below are links to useful websites with diagrams and lists of semantic HTML elements.
 
 **Useful Links for Semantic HTML:**
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
